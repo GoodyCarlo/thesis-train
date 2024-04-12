@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['apple', 'coke', 'egg', 'milk', 'onion']
+
+roboflow:
+  workspace: thesis-40gtn
+  project: filipino-fridge-items
+  version: 12
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/thesis-40gtn/filipino-fridge-items/dataset/12
