@@ -1,0 +1,23 @@
+{
+    "os": "Linux-5.19.0-45-generic-x86_64-with-glibc2.31",
+    "python": "3.9.16",
+    "heartbeatAt": "2024-04-12T05:30:22.582115",
+    "startedAt": "2024-04-12T05:30:22.151992",
+    "docker": null,
+    "gpu": "Quadro RTX 4000",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "thesis-train/train.ipynb",
+    "root": "/notebooks/thesis-train",
+    "git": {
+        "remote": "https://github.com/GoodyCarlo/thesis-train.git",
+        "commit": "35e42bcbf6ee824668a14fc90ce77a4b27afb774"
+    },
+    "email": null,
+    "host": "n7fo44uxkk",
+    "username": "root",
+    "executable": "/usr/local/bin/python3"
+}
